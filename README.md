@@ -1,1 +1,1 @@
-# P2_Resume_classification
+# Project2_Resume_classification
